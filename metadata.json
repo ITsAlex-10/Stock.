@@ -1,0 +1,6 @@
+{
+  "name": "Gestão de Stock",
+  "description": "Dashboard simples para gestão de stock com armazenamento local (offline).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
